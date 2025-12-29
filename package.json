@@ -1,0 +1,43 @@
+{
+  "name": "tomcs-web",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint"
+  },
+  "dependencies": {
+    "@gsap/react": "^2.1.2",
+    "clsx": "^2.0.0",
+    "dotenv": "^17.2.3",
+    "figlet": "^1.9.4",
+    "framer-motion": "^11.0.0",
+    "geist": "^1.0.0",
+    "groq-sdk": "^0.37.0",
+    "gsap": "^3.14.2",
+    "import-jsx": "^5.0.0",
+    "ink": "^6.6.0",
+    "ink-big-text": "^2.0.0",
+    "ink-gradient": "^3.0.0",
+    "lucide-react": "^0.468.0",
+    "next": "latest",
+    "react": "^19.2.3",
+    "react-dom": "^19.2.3",
+    "sharp": "^0.34.5",
+    "tailwind-merge": "^2.0.0",
+    "tsx": "^4.21.0"
+  },
+  "devDependencies": {
+    "@types/figlet": "^1.7.0",
+    "@types/node": "^22.19.3",
+    "@types/react": "^19.2.7",
+    "@types/react-dom": "^19.0.0",
+    "autoprefixer": "^10.0.0",
+    "postcss": "^8.0.0",
+    "tailwindcss": "^3.4.0",
+    "typescript": "^5.9.3"
+  },
+  "type": "module"
+}
